@@ -2,7 +2,7 @@
 const nextConfig = {
   output: 'standalone',
   // Use default directory
-  distDir: '.next',
+  //distDir: '.next',
   images: {
     domains: ['firebasestorage.googleapis.com'],
     unoptimized: true,
