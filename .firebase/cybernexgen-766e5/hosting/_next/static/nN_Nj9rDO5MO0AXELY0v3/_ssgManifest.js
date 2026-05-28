@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcourses\u002F[id]","\u002Fcourses\u002F[id]\u002Fenroll","\u002Fcourses\u002F[id]\u002Fpayment-success.tsx","\u002Fservices\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

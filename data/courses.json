@@ -1,0 +1,323 @@
+[
+  {
+    "id": "cloud-security",
+    "title": "Cloud Security",
+    "description": "Learn to secure cloud infrastructure and applications across major platforms including AWS, Azure, and GCP.",
+    "category": "cybersecurity",
+    "level": "Intermediate",
+    "duration": "6 weeks",
+    "price": "₹30,000",
+    "popular": true,
+    "featured": true,
+    "tags": ["aws", "azure", "gcp", "cloud", "security"],
+    "syllabusLink": "https://docs.google.com/document/d/1RldMe3-OCLSvhEb6ZXJbOT23XBotzS4o/edit?usp=sharing&ouid=115793946315704329738&rtpof=true&sd=true",
+    "syllabus": [
+      {
+        "title": "Module 1: Cloud Security Fundamentals",
+        "topics": ["Introduction to Cloud Security", "Shared Responsibility Model", "Cloud Security Architecture", "Compliance and Governance"]
+      },
+      {
+        "title": "Module 2: AWS Security",
+        "topics": ["IAM (Identity and Access Management)", "VPC Security", "Security Groups and NACLs", "AWS Security Services (GuardDuty, Inspector, Macie)"]
+      },
+      {
+        "title": "Module 3: Azure Security",
+        "topics": ["Azure Active Directory", "Azure Security Center", "Azure Key Vault", "Network Security in Azure"]
+      },
+      {
+        "title": "Module 4: GCP Security",
+        "topics": ["Cloud IAM", "VPC Security", "Cloud Security Command Center", "Cloud KMS"]
+      },
+      {
+        "title": "Module 5: Container and Kubernetes Security",
+        "topics": ["Docker Security Best Practices", "Kubernetes Security", "Container Scanning", "Runtime Protection"]
+      },
+      {
+        "title": "Module 6: DevSecOps and Automation",
+        "topics": ["CI/CD Pipeline Security", "Infrastructure as Code Security", "Security Automation", "Cloud Compliance Monitoring"]
+      }
+    ]
+  },
+  {
+    "id": "network-security",
+    "title": "Network Security",
+    "description": "Master techniques to protect network infrastructure and mitigate advanced threats in enterprise environments.",
+    "category": "cybersecurity",
+    "level": "Advanced",
+    "duration": "8 weeks",
+    "price": "₹35,000",
+    "featured": true,
+    "tags": ["network", "firewall", "ids", "vpn", "security"]
+  },
+  {
+    "id": "siem-solutions",
+    "title": "SIEM Solutions",
+    "description": "Implement and manage Security Information and Event Management systems for real-time threat detection.",
+    "category": "cybersecurity",
+    "level": "Advanced",
+    "duration": "6 weeks",
+    "price": "₹40,000",
+    "tags": ["siem", "splunk", "elk", "monitoring", "security"],
+    "syllabusLink": "https://docs.google.com/document/d/1Vcq_xqdPLFN7DBRiu3tteL4ld0mqzLwV/edit?usp=sharing&ouid=115793946315704329738&rtpof=true&sd=true",
+    "syllabus": [
+      {
+        "title": "Module 1: SIEM Fundamentals",
+        "topics": ["Introduction to SIEM", "Log Management Basics", "Event Correlation", "SIEM Architecture"]
+      },
+      {
+        "title": "Module 2: Splunk Enterprise",
+        "topics": ["Splunk Installation and Configuration", "Data Ingestion", "Search Processing Language (SPL)", "Dashboards and Alerts"]
+      },
+      {
+        "title": "Module 3: ELK Stack (Elasticsearch, Logstash, Kibana)",
+        "topics": ["ELK Stack Architecture", "Logstash Configuration", "Elasticsearch Queries", "Kibana Visualizations"]
+      },
+      {
+        "title": "Module 4: IBM QRadar",
+        "topics": ["QRadar Architecture", "Event Collection", "Offense Management", "Custom Rules Development"]
+      },
+      {
+        "title": "Module 5: Threat Detection and Response",
+        "topics": ["Use Case Development", "Threat Hunting with SIEM", "Incident Investigation", "Automated Response"]
+      },
+      {
+        "title": "Module 6: SIEM Best Practices",
+        "topics": ["SIEM Deployment Strategies", "Performance Tuning", "Compliance Reporting", "Integration with SOAR"]
+      }
+    ]
+  },
+  {
+    "id": "application-security",
+    "title": "Application Security",
+    "description": "Secure application development practices, vulnerability assessment, and penetration testing techniques.",
+    "category": "cybersecurity",
+    "level": "Intermediate to Advanced",
+    "duration": "7 weeks",
+    "price": "₹32,000",
+    "popular": true,
+    "tags": ["appsec", "owasp", "pentesting", "security"]
+  },
+  {
+    "id": "oscp-preparation",
+    "title": "OSCP Preparation",
+    "description": "Comprehensive preparation course for the Offensive Security Certified Professional certification.",
+    "category": "cybersecurity",
+    "level": "Advanced",
+    "duration": "12 weeks",
+    "price": "₹50,000",
+    "popular": true,
+    "featured": true,
+    "tags": ["oscp", "pentesting", "certification", "offensive-security"]
+  },
+  {
+    "id": "devops-aws",
+    "title": "DevOps on AWS",
+    "description": "Master DevOps practices and tools on Amazon Web Services platform.",
+    "category": "devops",
+    "level": "Intermediate",
+    "duration": "8 weeks",
+    "price": "₹35,000",
+    "popular": true,
+    "tags": ["devops", "aws", "ci-cd", "kubernetes", "docker"],
+    "syllabusLink": "https://docs.google.com/document/d/1O0PykMWd3QwtHEtWkAIz6zrkKA1zTird/edit?usp=sharing&ouid=115793946315704329738&rtpof=true&sd=true",
+    "syllabus": [
+      {
+        "title": "Module 1: DevOps Fundamentals",
+        "topics": ["Introduction to DevOps", "DevOps Culture and Practices", "Agile Methodology", "Version Control with Git"]
+      },
+      {
+        "title": "Module 2: AWS Core Services",
+        "topics": ["EC2 and Auto Scaling", "VPC and Networking", "S3 and Storage Services", "IAM and Security"]
+      },
+      {
+        "title": "Module 3: Containerization with Docker",
+        "topics": ["Docker Fundamentals", "Container Management", "Docker Compose", "Container Registry (ECR)"]
+      },
+      {
+        "title": "Module 4: Container Orchestration with Kubernetes",
+        "topics": ["Kubernetes Architecture", "EKS (Elastic Kubernetes Service)", "Deployments and Services", "Helm Charts"]
+      },
+      {
+        "title": "Module 5: CI/CD Pipeline on AWS",
+        "topics": ["AWS CodeCommit", "AWS CodeBuild", "AWS CodeDeploy", "AWS CodePipeline"]
+      },
+      {
+        "title": "Module 6: Infrastructure as Code",
+        "topics": ["CloudFormation", "Terraform on AWS", "AWS CDK", "Configuration Management"]
+      },
+      {
+        "title": "Module 7: Monitoring and Logging",
+        "topics": ["CloudWatch", "AWS X-Ray", "ELK Stack on AWS", "Prometheus and Grafana"]
+      },
+      {
+        "title": "Module 8: DevOps Best Practices",
+        "topics": ["Blue-Green Deployments", "Canary Releases", "Disaster Recovery", "Cost Optimization"]
+      }
+    ]
+  },
+  {
+    "id": "devops-azure",
+    "title": "DevOps on Azure",
+    "description": "Implement DevOps workflows and automation on Microsoft Azure cloud platform.",
+    "category": "devops",
+    "level": "Intermediate",
+    "duration": "8 weeks",
+    "price": "₹35,000",
+    "tags": ["devops", "azure", "ci-cd", "kubernetes", "docker"]
+  },
+  {
+    "id": "devsecops",
+    "title": "DevSecOps Practices",
+    "description": "Integrate security into DevOps workflows for secure and efficient software delivery.",
+    "category": "devops",
+    "level": "Advanced",
+    "duration": "6 weeks",
+    "price": "₹38,000",
+    "featured": true,
+    "tags": ["devsecops", "security", "automation", "ci-cd"]
+  },
+  {
+    "id": "aws-certification",
+    "title": "AWS Solutions Architect",
+    "description": "Prepare for AWS Solutions Architect certification with hands-on labs and real-world scenarios.",
+    "category": "cloud",
+    "level": "Intermediate",
+    "duration": "10 weeks",
+    "price": "₹40,000",
+    "popular": true,
+    "tags": ["aws", "certification", "cloud", "architecture"]
+  },
+  {
+    "id": "azure-certification",
+    "title": "Azure Administrator",
+    "description": "Complete preparation for Microsoft Azure Administrator certification exam.",
+    "category": "cloud",
+    "level": "Intermediate",
+    "duration": "10 weeks",
+    "price": "₹40,000",
+    "tags": ["azure", "certification", "cloud", "microsoft"]
+  },
+  {
+    "id": "gcp-certification",
+    "title": "GCP Professional",
+    "description": "Google Cloud Platform Professional certification preparation with practical projects.",
+    "category": "cloud",
+    "level": "Intermediate to Advanced",
+    "duration": "10 weeks",
+    "price": "₹40,000",
+    "tags": ["gcp", "certification", "cloud", "google"]
+  },
+  {
+    "id": "java-development",
+    "title": "Java Development",
+    "description": "Full-stack Java development with Spring Boot, microservices, and enterprise patterns.",
+    "category": "development",
+    "level": "Beginner to Intermediate",
+    "duration": "12 weeks",
+    "price": "₹30,000",
+    "tags": ["java", "spring", "microservices", "programming"]
+  },
+  {
+    "id": "python-development",
+    "title": "Python Development",
+    "description": "Learn Python programming for web development, data analysis, and automation.",
+    "category": "development",
+    "level": "Beginner to Intermediate",
+    "duration": "8 weeks",
+    "price": "₹28,000",
+    "popular": true,
+    "tags": ["python", "django", "flask", "programming"]
+  },
+  {
+    "id": "cyber-security-master",
+    "title": "Cyber Security Master Course",
+    "description": "Comprehensive cybersecurity training covering all aspects of information security, from fundamentals to advanced topics.",
+    "category": "cybersecurity",
+    "level": "Beginner to Advanced",
+    "duration": "16 weeks",
+    "price": "₹60,000",
+    "featured": true,
+    "tags": ["cybersecurity", "masterclass", "complete-course", "certification"],
+    "syllabusLink": "https://docs.google.com/document/d/1PovbwXbvCiEG7sC_OqbDeS4tIXVcfZhp/edit?usp=sharing&ouid=115793946315704329738&rtpof=true&sd=true",
+    "syllabus": [
+      {
+        "title": "Module 1: Cybersecurity Fundamentals",
+        "topics": ["Information Security Basics", "CIA Triad", "Security Frameworks", "Risk Management"]
+      },
+      {
+        "title": "Module 2: Network Security",
+        "topics": ["Network Protocols Security", "Firewall Technologies", "IDS/IPS", "VPN and Encryption"]
+      },
+      {
+        "title": "Module 3: Application Security",
+        "topics": ["OWASP Top 10", "Secure Coding Practices", "Web Application Security", "API Security"]
+      },
+      {
+        "title": "Module 4: Cloud Security",
+        "topics": ["Cloud Security Fundamentals", "AWS Security", "Azure Security", "Container Security"]
+      },
+      {
+        "title": "Module 5: Endpoint Security",
+        "topics": ["Endpoint Protection", "EDR Solutions", "Mobile Security", "IoT Security"]
+      },
+      {
+        "title": "Module 6: Identity and Access Management",
+        "topics": ["Authentication Methods", "Authorization Models", "SSO and Federation", "Privileged Access Management"]
+      },
+      {
+        "title": "Module 7: Security Operations",
+        "topics": ["SOC Operations", "SIEM Implementation", "Incident Response", "Forensics"]
+      },
+      {
+        "title": "Module 8: Threat Intelligence",
+        "topics": ["Threat Landscape", "Threat Hunting", "Malware Analysis", "APT Detection"]
+      },
+      {
+        "title": "Module 9: Compliance and Governance",
+        "topics": ["Regulatory Compliance", "Security Policies", "Audit and Assessment", "GRC Tools"]
+      },
+      {
+        "title": "Module 10: Ethical Hacking",
+        "topics": ["Penetration Testing", "Vulnerability Assessment", "Exploitation Techniques", "Reporting"]
+      },
+      {
+        "title": "Module 11: Cryptography",
+        "topics": ["Encryption Algorithms", "PKI Infrastructure", "Digital Certificates", "Blockchain Security"]
+      },
+      {
+        "title": "Module 12: DevSecOps",
+        "topics": ["Security in CI/CD", "Container Security", "IaC Security", "Security Automation"]
+      }
+    ]
+  },
+  {
+    "id": "soar",
+    "title": "SOAR (Security Orchestration, Automation and Response)",
+    "description": "Learn to implement and manage SOAR platforms for automated security operations and incident response.",
+    "category": "cybersecurity",
+    "level": "Advanced",
+    "duration": "6 weeks",
+    "price": "₹35,000",
+    "tags": ["soar", "automation", "orchestration", "incident-response"]
+  },
+  {
+    "id": "endpoint-security",
+    "title": "Endpoint Security",
+    "description": "Master endpoint protection strategies, EDR/XDR solutions, and advanced threat prevention for modern enterprises.",
+    "category": "cybersecurity",
+    "level": "Intermediate",
+    "duration": "5 weeks",
+    "price": "₹30,000",
+    "tags": ["endpoint", "edr", "xdr", "antivirus", "security"]
+  },
+  {
+    "id": "threat-hunting",
+    "title": "Threat Hunting and Threat Intelligence",
+    "description": "Develop proactive threat hunting skills and learn to leverage threat intelligence for advanced security operations.",
+    "category": "cybersecurity",
+    "level": "Advanced",
+    "duration": "8 weeks",
+    "price": "₹40,000",
+    "tags": ["threat-hunting", "threat-intelligence", "proactive-security", "analysis"]
+  }
+]

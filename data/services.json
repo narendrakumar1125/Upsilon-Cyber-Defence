@@ -1,0 +1,234 @@
+[
+  {
+    "id": "strategy-consulting",
+    "title": "Architecture Assessment Services",
+    "description": "Comprehensive evaluation of your current security architecture to identify strengths, weaknesses, and areas for improvement.",
+    "category": "consulting",
+    "featured": true,
+    "price": "Custom Quote",
+    "features": [
+      "Security architecture review",
+      "Gap analysis",
+      "Compliance mapping",
+      "Improvement roadmap",
+      "Security frameworks implementation"
+    ],
+    "tags": ["consulting", "architecture", "assessment", "security"]
+  },
+  {
+    "id": "governance-compliance",
+    "title": "Governance & Compliance",
+    "description": "Establish robust security governance frameworks and ensure compliance with industry regulations and standards.",
+    "category": "consulting",
+    "price": "Custom Quote",
+    "features": [
+      "Regulatory compliance assessment",
+      "Policy development",
+      "Compliance program implementation",
+      "Audit preparation",
+      "Risk management frameworks"
+    ],
+    "tags": ["governance", "compliance", "regulations", "policies"]
+  },
+  {
+    "id": "managed-soc",
+    "title": "Managed SOC Services",
+    "description": "24/7 Security Operations Center monitoring and incident response to protect your digital assets.",
+    "category": "managed",
+    "featured": true,
+    "price": "Starting at ₹50,000/month",
+    "features": [
+      "24/7 security monitoring",
+      "Real-time threat detection",
+      "Incident response",
+      "Security event analysis",
+      "Monthly security reports"
+    ],
+    "tags": ["soc", "monitoring", "incident-response", "managed-services"]
+  },
+  {
+    "id": "vulnerability-management",
+    "title": "Vulnerability Management",
+    "description": "Continuous vulnerability assessment and remediation services to maintain strong security posture.",
+    "category": "managed",
+    "price": "Starting at ₹30,000/month",
+    "features": [
+      "Regular vulnerability scans",
+      "Penetration testing",
+      "Risk prioritization",
+      "Remediation guidance",
+      "Compliance reporting"
+    ],
+    "tags": ["vulnerability", "scanning", "pentesting", "risk-management"]
+  },
+  {
+    "id": "integration-services",
+    "title": "Security Tool Integration",
+    "description": "Seamlessly integrate security tools and platforms to create a unified security ecosystem.",
+    "category": "integration",
+    "price": "Project-based pricing",
+    "features": [
+      "SIEM integration",
+      "Security orchestration",
+      "API integration",
+      "Custom connectors",
+      "Workflow automation"
+    ],
+    "tags": ["integration", "siem", "automation", "tools"]
+  },
+  {
+    "id": "cloud-migration",
+    "title": "Secure Cloud Migration",
+    "description": "Migrate your infrastructure to the cloud with security best practices and zero-trust architecture.",
+    "category": "integration",
+    "featured": true,
+    "price": "Project-based pricing",
+    "features": [
+      "Cloud security assessment",
+      "Migration planning",
+      "Security controls implementation",
+      "Zero-trust architecture",
+      "Post-migration support"
+    ],
+    "tags": ["cloud", "migration", "aws", "azure", "security"]
+  },
+  {
+    "id": "security-awareness",
+    "title": "Security Awareness Training",
+    "description": "Comprehensive security awareness programs to educate employees about cyber threats and best practices.",
+    "category": "training",
+    "price": "₹500 per user",
+    "features": [
+      "Phishing simulation",
+      "Security best practices",
+      "Incident reporting procedures",
+      "Data protection training",
+      "Compliance awareness"
+    ],
+    "tags": ["training", "awareness", "phishing", "education"]
+  },
+  {
+    "id": "technical-training",
+    "title": "Technical Security Training",
+    "description": "Advanced technical training for IT and security professionals on latest tools and techniques.",
+    "category": "training",
+    "price": "₹25,000 per participant",
+    "features": [
+      "Hands-on labs",
+      "Tool-specific training",
+      "Certification preparation",
+      "Real-world scenarios",
+      "Expert instructors"
+    ],
+    "tags": ["training", "technical", "certification", "hands-on"]
+  },
+  {
+    "id": "incident-response",
+    "title": "Incident Response Services",
+    "description": "Rapid incident response and forensics services to minimize damage from security breaches.",
+    "category": "managed",
+    "featured": true,
+    "price": "On-demand pricing",
+    "features": [
+      "24/7 emergency response",
+      "Forensic analysis",
+      "Breach containment",
+      "Recovery planning",
+      "Post-incident reporting"
+    ],
+    "tags": ["incident-response", "forensics", "emergency", "breach"]
+  },
+  {
+    "id": "corporate-training",
+    "title": "Corporate Security Training",
+    "description": "Security awareness and skill development training for corporate teams.",
+    "category": "training",
+    "price": "Custom packages",
+    "features": [
+      "Security awareness training",
+      "Role-based security training",
+      "Security policy education",
+      "Social engineering defense",
+      "Secure coding practices"
+    ],
+    "tags": ["corporate", "training", "teams", "awareness"]
+  },
+  {
+    "id": "application-security-testing",
+    "title": "Application Security Testing",
+    "description": "Comprehensive application security assessment including SAST, DAST, and manual penetration testing.",
+    "category": "managed",
+    "price": "Project-based pricing",
+    "features": [
+      "Static Application Security Testing (SAST)",
+      "Dynamic Application Security Testing (DAST)",
+      "Manual penetration testing",
+      "Code review and analysis",
+      "Security vulnerability reporting",
+      "Remediation guidance"
+    ],
+    "tags": ["appsec", "testing", "sast", "dast", "penetration-testing"]
+  },
+  {
+    "id": "web-development",
+    "title": "Secure Web Development",
+    "description": "Web application development with security best practices built-in from the ground up.",
+    "category": "managed",
+    "price": "Custom Quote",
+    "features": [
+      "Secure coding practices",
+      "OWASP compliance",
+      "Security-first architecture",
+      "Regular security audits",
+      "Continuous security monitoring"
+    ],
+    "tags": ["web-development", "secure-coding", "owasp", "development"]
+  },
+  {
+    "id": "threat-detection",
+    "title": "Advanced Threat Detection",
+    "description": "Proactive threat detection services using advanced analytics and machine learning.",
+    "category": "managed",
+    "price": "Starting at ₹40,000/month",
+    "features": [
+      "AI-powered threat detection",
+      "Behavioral analytics",
+      "Zero-day threat identification",
+      "Real-time alerting",
+      "Threat intelligence integration"
+    ],
+    "tags": ["threat-detection", "ai", "analytics", "zero-day"]
+  },
+  {
+    "id": "risk-assessment",
+    "title": "Risk Assessment Services",
+    "description": "Comprehensive risk assessment to identify, analyze, and prioritize security risks in your organization.",
+    "category": "consulting",
+    "price": "Project-based pricing",
+    "features": [
+      "Asset identification and classification",
+      "Threat and vulnerability assessment",
+      "Risk analysis and scoring",
+      "Risk mitigation recommendations",
+      "Compliance gap analysis",
+      "Executive risk reporting"
+    ],
+    "tags": ["risk-assessment", "compliance", "analysis", "consulting"]
+  },
+  {
+    "id": "project-management",
+    "title": "Security Project Management",
+    "description": "Expert project management for security initiatives, ensuring successful implementation of security programs.",
+    "category": "consulting",
+    "price": "Custom Quote",
+    "features": [
+      "Security project planning",
+      "Resource allocation",
+      "Timeline management",
+      "Stakeholder coordination",
+      "Risk management",
+      "Project delivery assurance"
+    ],
+    "tags": ["project-management", "consulting", "implementation", "planning"]
+  }
+]

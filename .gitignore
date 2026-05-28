@@ -1,0 +1,23 @@
+
+# dependencies
+node_modules/
+
+# environment files
+.env
+.env.local
+.env.*.local
+
+# build outputs
+.next/
+dist/
+build/
+
+# logs
+yarn-error.log
+npm-debug.log*
+
+# service accounts / secrets
+firebase-service-account.json
+
+# claude
+**/.claude/settings.local.json

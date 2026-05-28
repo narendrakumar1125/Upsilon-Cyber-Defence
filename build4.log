@@ -1,0 +1,106 @@
+   ▲ Next.js 14.1.0
+   - Environments: .env.local
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Skipping validation of types
+   Skipping linting
+   Collecting page data ...
+   Generating static pages (0/256) ...
+   Generating static pages (64/256) 
+   Generating static pages (128/256) 
+   Generating static pages (192/256) 
+ ✓ Generating static pages (256/256) 
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                          Size     First Load JS
+┌ ○ /                                                297 kB          601 kB
+├ ○ /_not-found                                      0 B                0 B
+├ ○ /about                                           4.52 kB         257 kB
+├ ○ /admin                                           2.1 kB         93.3 kB
+├ ○ /admin/courses                                   2.96 kB         210 kB
+├ ● /admin/courses/[id]                              5.48 kB         254 kB
+├   ├ /admin/courses/cloud-security
+├   ├ /admin/courses/network-security
+├   ├ /admin/courses/siem-solutions
+├   └ [+23 more paths]
+├ ● /admin/courses/[id]/delete                       2.4 kB          209 kB
+├   ├ /admin/courses/cloud-security/delete
+├   ├ /admin/courses/network-security/delete
+├   ├ /admin/courses/siem-solutions/delete
+├   └ [+23 more paths]
+├ ○ /admin/courses/bulk-upload                       3.58 kB         210 kB
+├ ○ /admin/courses/new                               3.79 kB         235 kB
+├ ○ /admin/resources                                 2.83 kB         203 kB
+├ ○ /admin/services                                  2.93 kB         210 kB
+├ ● /admin/services/[id]                             5.46 kB         254 kB
+├   ├ /admin/services/strategy-consulting
+├   ├ /admin/services/managed-services
+├   ├ /admin/services/integration-services
+├   └ [+14 more paths]
+├ ● /admin/services/[id]/delete                      2.4 kB          209 kB
+├   ├ /admin/services/strategy-consulting/delete
+├   ├ /admin/services/managed-services/delete
+├   ├ /admin/services/integration-services/delete
+├   └ [+14 more paths]
+├ ○ /admin/services/bulk-upload                      3.57 kB         210 kB
+├ ○ /admin/services/new                              3.75 kB         235 kB
+├ ○ /client-admin                                    3.38 kB         210 kB
+├ ○ /client-admin/courses                            4.48 kB         211 kB
+├ ● /client-admin/courses/[id]                       191 B           216 kB
+├   ├ /client-admin/courses/cloud-security
+├   ├ /client-admin/courses/network-security
+├   ├ /client-admin/courses/siem-solutions
+├   └ [+23 more paths]
+├ ○ /client-admin/courses/edit                       377 B           216 kB
+├ ○ /client-admin/courses/preview                    2.14 kB         209 kB
+├ ○ /client-admin/resources                          6.17 kB         213 kB
+├ ○ /client-admin/services                           4.46 kB         211 kB
+├ ● /client-admin/services/[id]                      190 B           216 kB
+├   ├ /client-admin/services/strategy-consulting
+├   ├ /client-admin/services/managed-services
+├   ├ /client-admin/services/integration-services
+├   └ [+14 more paths]
+├ ○ /client-admin/services/edit                      375 B           216 kB
+├ ○ /client-admin/services/preview                   2.14 kB         209 kB
+├ ○ /client-admin/settings                           5.4 kB          212 kB
+├ ○ /contact                                         6.47 kB         259 kB
+├ ○ /courses                                         4.29 kB         257 kB
+├ ● /courses/[id]                                    8.17 kB         260 kB
+├   ├ /courses/cloud-security
+├   ├ /courses/network-security
+├   ├ /courses/siem-solutions
+├   └ [+23 more paths]
+├ ● /courses/[id]/enroll                             3.24 kB         255 kB
+├   ├ /courses/cloud-security/enroll
+├   ├ /courses/network-security/enroll
+├   ├ /courses/siem-solutions/enroll
+├   └ [+23 more paths]
+├ ● /courses/[id]/payment-success.tsx                142 B          84.5 kB
+├   ├ /courses/cloud-security/payment-success.tsx
+├   ├ /courses/network-security/payment-success.tsx
+├   ├ /courses/siem-solutions/payment-success.tsx
+├   └ [+23 more paths]
+├ ○ /instructor                                      5.9 kB          258 kB
+├ ○ /login                                           2.83 kB         210 kB
+├ ○ /privacy-policy                                  4.27 kB         257 kB
+├ ○ /products                                        6.2 kB          258 kB
+├ ○ /profile                                         3.98 kB         256 kB
+├ ○ /refund-policy                                   3.75 kB         256 kB
+├ ○ /services                                        3.94 kB         256 kB
+├ ● /services/[id]                                   6.88 kB         259 kB
+├   ├ /services/strategy-consulting
+├   ├ /services/managed-services
+├   ├ /services/integration-services
+├   └ [+14 more paths]
+└ ○ /terms-conditions                                4.62 kB         257 kB
++ First Load JS shared by all                        84.4 kB
+  ├ chunks/8069-2a3388c0c5f23dcf.js                  29 kB
+  ├ chunks/fd9d1056-69feeb9133fa68e8.js              53.4 kB
+  └ other shared chunks (total)                      1.99 kB
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses getStaticProps)
+
